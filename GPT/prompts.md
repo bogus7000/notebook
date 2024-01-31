@@ -2,7 +2,7 @@
 
 - Generate lecture self-check questions in Markdown
 ```plaintext 
-Please prepare a detailed list of self-check study questions to help understand this lecture. Please format as Markdown
+Please prepare a detailed list of self-check study questions to help memorize and understand this lecture. Please format as Markdown
 ```
 
 # Formatting
